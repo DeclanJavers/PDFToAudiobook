@@ -1,0 +1,4 @@
+pdfminer.six
+kokoro
+soundfile
+pydub
